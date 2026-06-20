@@ -1,0 +1,15 @@
+Python question 
+
+Level 1 - conditional statements 
+
+1. WAP to check the given number is positive negative or zero 
+
+	
+	given : a number 
+	required : check number positive, negative, zero 
+	output : negative, positive, zero 
+pattern : 
+	it have greater than zero positive, less than zero negative 
+
+can i make it faster = no 
+can i make it reusable = yes we create a function  
