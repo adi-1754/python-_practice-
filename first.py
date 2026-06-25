@@ -293,4 +293,6 @@
 # print(fib(6))
 
 
-
+# f = open("demo.txt", "r")
+# data = f.read()
+# print(data)
