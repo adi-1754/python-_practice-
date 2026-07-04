@@ -70,3 +70,25 @@
          
 
 
+# Question 7 Check whether a person is eligible to vote.
+# age = int(input("Enter your age: "))
+# if age >= 18:
+#     print("You are eligible to vote.")
+# else:
+#     print("You are not eligible to vote.")
+
+
+
+# Question 8 Calculate grade based on marks.
+# sub1 = float(input("Enter marks for subject 1: "))
+# sub2 = float(input("Enter marks for subject 2: "))
+# sub3 = float(input("Enter marks for subject 3: "))
+# total_marks = sub1 + sub2 + sub3
+# average_marks = total_marks / 3
+# print(f"Total Marks: {total_marks} Average Marks: {average_marks}")
+# if average_marks >= 80:
+#     print("Grade: A")
+# elif average_marks >= 60:
+#     print("Grade: B")
+# else:
+#     print("Grade: C")
