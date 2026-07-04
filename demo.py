@@ -44,3 +44,29 @@
 #     print(f"The largest number is: {num2}")
 # else:
 #     print(f"The largest number is: {num3}")
+
+
+
+# Question 5 Find the smallest of three numbers. 
+# num1 = int(input("Enter the first number: "))
+# num2 = int(input("Enter the second number: "))
+# num3 = int(input("Enter the third number: "))
+
+# if num1 <= num2 and num1 <= num3:
+#     print(f"The smallest number is: {num1}")
+# elif num2 <= num1 and num2 <= num3:
+#     print(f"The smallest number is: {num2}")
+# else:
+#     print(f"The smallest number is: {num3}")
+
+
+
+# Question 6 Check if a year is a leap year.
+# year = int(input("Enter a year: "))
+# if year % 4 == 0:
+#     print(f"Year is a loop {year}")
+# else:
+#     print(f"Year is not a loop {year}")
+         
+
+
