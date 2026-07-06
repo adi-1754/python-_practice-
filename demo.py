@@ -123,3 +123,8 @@
 #     print(f"{num} is a multiple of 3 ")
 # else : 
 #     print(f"{num} is not a multiple of 3 ") 
+
+
+
+# Question 12  Determine whether a number is a two-digit number.
+num = int(input("Enter a number:")) 
