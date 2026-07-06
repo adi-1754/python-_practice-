@@ -96,9 +96,21 @@
 
 
 # Question 9 Check if a character is a vowel or consonant.
-char = input("Enter a character: ").lower()
-if char in ['a', 'e', 'i', 'o', 'u']:
-    print(f"{char} is a vowel.")
-else:
-    print(f"{char} is a consonant.")
-    
+# char = input("Enter a character: ").lower()
+# if char in ['a', 'e', 'i', 'o', 'u']:
+#     print(f"{char} is a vowel.")
+# else:
+#     print(f"{char} is a consonant.")
+
+
+
+# Question 10 Check if a number is divisible by 5 and 11.
+# num = int(input("Enter a number: "))
+# if num % 5 == 0 and num % 11 == 0:
+#     print(f"{num} is divisible by both 5 and 11.")
+# elif num % 5 == 0:
+#     print(f"{num} is divisible by 5 but not by 11.")
+# elif num % 11 == 0:
+#     print(f"{num} is divisible by 11 but not by 5.")
+# else:
+#     print(f"{num} is not divisible by either 5 or 11.")
