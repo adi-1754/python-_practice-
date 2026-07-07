@@ -128,3 +128,8 @@
 
 # Question 12  Determine whether a number is a two-digit number.
 num = int(input("Enter a number:")) 
+if len(str(num)) == 2:
+    print(f"{num} is a two-digit number.")
+else:
+    print(f"{num} is not a two-digit number.")
+
